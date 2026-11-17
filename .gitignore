@@ -1,0 +1,16 @@
+mock_data.json
+uploads_sparepart/
+Dashboard_Teknisi_GPI.html
+
+.env
+service_account.json
+*-service-account*.json
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+.vercel
